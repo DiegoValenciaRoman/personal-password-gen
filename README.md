@@ -18,6 +18,7 @@ python3 cli.py run login    //genera y buscar passwords
 
 Ir agregando lo que se les ocurre :).
 
+- Agregar generalizacion de consultas a BD para soportar multiples SABD
 - Mejorar el cli
 - Agregar fecha de creacion y de ultimo acceso
 - Crear api para que se pueda implementar con cualquier front end
